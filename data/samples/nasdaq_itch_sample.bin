@@ -1,0 +1,9 @@
+/*
+ * Copyright (c) 2024 Anderson B. Research.
+ * All rights reserved.
+ *
+ * File: nasdaq_itch_sample.bin 
+ * Description: Implementation needed for high-performance HFT logic.
+ */
+
+#pragma once
